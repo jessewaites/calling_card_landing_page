@@ -1,0 +1,43 @@
+
+        html {
+            background: url(http://666a658c624a3c03a6b2-25cda059d975d2f318c03e90bcf17c40.r92.cf1.rackcdn.com/unsplash_525f012329589_1.JPG) no-repeat center center fixed; 
+            -webkit-background-size: cover;
+            -moz-background-size: cover;
+            -o-background-size: cover;
+            background-size: cover;
+        }
+
+        body {
+            padding-top: 20px;
+            font-size: 16px;
+            background: transparent;
+            font-family: 'IM Fell English', serif;
+            /*color: #009B95;*/
+        }
+
+        h1 {
+            font-family: 'Rock Salt', cursive;
+            font-weight: 400;
+            font-size: 40px;
+            color: #009B95;
+        }
+
+        .panel {
+            background-color: rgba(255, 255, 255, 0.2);
+        }
+
+        .margin-base-vertical {
+            margin: 40px 0;
+        }
+
+        a {
+            color: #FF6400;
+            font-family: 'IM Fell English', serif;
+        }
+
+        /*.text-muted {
+            color: #FF6400;
+        } */
+
+        /*font-family: 'Dosis', sans-serif;
+        font-family: 'The Girl Next Door', cursive;*/
